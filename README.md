@@ -1,2 +1,1 @@
-# samma_f
 # testing
